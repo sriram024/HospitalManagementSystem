@@ -6,6 +6,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.stereotype.Controller;
 
 @SpringBootApplication
+
 @ComponentScan(basePackages= {"com.ust"})
 public class HospitalDeviceManagementApplication {
 

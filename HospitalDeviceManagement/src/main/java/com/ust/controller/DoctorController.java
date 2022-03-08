@@ -25,6 +25,7 @@ import com.ust.service.DoctorService;
 
 
 @RestController 
+
 @CrossOrigin(origins = "*") 
 @RequestMapping("/rest/student") 
 

@@ -12,6 +12,7 @@ import lombok.RequiredArgsConstructor;
 
 
 @Data 
+
 //@NoArgsConstructor 
 @RequiredArgsConstructor 
 @AllArgsConstructor 	
